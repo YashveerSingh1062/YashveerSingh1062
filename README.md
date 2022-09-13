@@ -1,7 +1,7 @@
 [![MasterHead](https://www.globaltechoutlook.com/wp-content/uploads/2021/02/Augmented-reality.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
 <h3 align="center">A passionate Augmented Reality Developer from India</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9%2F68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&tbnid=55jyr3BK5duBpM&vet=12ahUKEwjRy4_ZmpL6AhVh83MBHai-Ak8QMygHegUIARDfAQ..i&docid=CJdgcKdcN0j58M&w=800&h=600&itg=1&q=animated%20coding%20gif&hl=en&ved=2ahUKEwjRy4_ZmpL6AhVh83MBHai-Ak8QMygHegUIARDfAQ">
+<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashveersingh1062&label=Profile%20views&color=0e75b6&style=flat" alt="yashveersingh1062" /> </p>
 
