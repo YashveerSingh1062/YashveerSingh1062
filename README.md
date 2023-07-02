@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/sec_l_cse1062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sec_l_cse1062" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ysr_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geekymonkey" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@yashveerpr2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yashveerpr2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashveer2024cse1062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashveer2024cse1062" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ysr_code/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashveer2024cse1062" height="30" width="40" /></a>
 <a href="https://discord.gg/3774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3774" height="30" width="40" /></a>
 </p>
 
