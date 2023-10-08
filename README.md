@@ -14,7 +14,6 @@
 <a href="https://twitter.com/Yashvee70645411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashvee70645411" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashveer-singh1062/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashveer-singh1062" height="30" width="40" /></a>
 <a href="https://instagram.com/yashveer_ysr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashveer.ysr" height="30" width="40" /></a>
-<a href="https://discord.gg/YashveerSingh#0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YashveerSingh#0707" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
