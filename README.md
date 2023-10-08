@@ -2,19 +2,19 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 # 💫 About Me:
-💻 I'm currently working on MERN projects<be>
-🌱 I'm currently learning modern JS frameworks<be>
-💬 You can ask me about C++, DSA, JS, AR/VR, C#<be>
-⚡ Fun fact I love traveling and cooking
+💻 I'm currently working on **MERN projects**<be></br>
+🌱 I'm currently learning modern **JS frameworks**<be></br>
+💬 You can ask me about **C++, DSA, JS, AR/VR, C#**<be></br>
+⚡ Fun fact I love traveling and cooking!
 
 
 ## Socials:
 <h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/Yashvee70645411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sri_akhilraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashveer-singh1062/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-raj-srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/yashveer_ysr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri.akhilraj" height="30" width="40" /></a>
-<a href="https://discord.gg/ysr_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AKHIL#0627" height="30" width="40" /></a>
+<a href="https://twitter.com/Yashvee70645411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashvee70645411" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashveer-singh1062/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashveer-singh1062" height="30" width="40" /></a>
+<a href="https://instagram.com/yashveer_ysr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashveer.ysr" height="30" width="40" /></a>
+<a href="https://discord.gg/YashveerSingh#0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YashveerSingh#0707" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
