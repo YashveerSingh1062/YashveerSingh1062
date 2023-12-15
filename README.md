@@ -21,6 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=YashveerSingh1062&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YashveerSingh1062&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashveerSingh1062&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![YashveerSingh1062's GitHub | Stats](https://stats.quine.sh/YashveerSingh1062/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=YashveerSingh1062)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YashveerSingh1062&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
