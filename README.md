@@ -2,9 +2,7 @@
 
 ### An experienced Backend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashveerSingh1062&label=Profile views&color=0e75b6&style=flat" alt="YashveerSingh1062" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashveerSingh1062" alt="YashveerSingh1062" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashveerSingh1062&label=Profile%20views&color=0e75b6&style=flat" alt="YashveerSingh1062" /> </p>
 
 - 🔭 I'm currently working on **Real-world projects and improving my problem-solving skills**
 
