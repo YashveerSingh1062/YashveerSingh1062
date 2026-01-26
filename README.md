@@ -2,9 +2,9 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 # 💫 About Me:
-💻 I'm currently working on **MERN projects**<be></br>
-🌱 I'm currently learning modern **JS frameworks**<be></br>
-💬 You can ask me about **C++, DSA, JS, AR/VR, C#**<be></br>
+💻 I'm currently working on **Java, Spring Boot projects**<be></br>
+🌱 I'm currently learning modern **Spring frameworks**<be></br>
+💬 You can connect me to discuss about **Java, Spring, Backend development, C++, DSA, JS, Web AR/VR**<be></br>
 ⚡ Fun fact I love traveling and cooking!
 
 
