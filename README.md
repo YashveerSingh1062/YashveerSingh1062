@@ -37,14 +37,15 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   <a href="https://hackerrank.com/sec_l_cse1062">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
-  </a>
-  <a href="https://leetcode.com/ysr_code">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-  </a>
-  <a href="https://codeforces.com/profile/ysr_code">
-    <img src="https://img.icons8.com/color/48/codeforces.png" height="45"/>
-  </a>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="45"/>
+</a>
+
+<a href="https://leetcode.com/ysr_code">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="45"/>
+</a>
+<a href="https://codeforces.com/profile/ysr_code">
+  <img src="https://img.shields.io/badge/CF-1f8acb?style=flat&logo=codeforces&logoColor=white" height="45"/>
+</a>
   <a href="https://codechef.com/users/ysr_code">
     <img src="https://img.icons8.com/color/48/codechef.png" height="45"/>
   </a>
