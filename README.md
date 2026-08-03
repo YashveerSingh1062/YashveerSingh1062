@@ -27,10 +27,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/YashveerSingh1062">
+  <a href="https://github.com/ysr-yashveer">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="https://linkedin.com/in/yashveer-singh1062/">
+  <a href="https://linkedin.com/in/yashveer-singh-ysr/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://instagram.com/yashveer_ysr/">
@@ -67,8 +67,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YashveerSingh1062&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YashveerSingh1062&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysr-yashveer&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ysr-yashveer&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashveerSingh1062&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ysr-yashveer&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashveerSingh1062&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysr-yashveer&theme=tokyo-night" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YashveerSingh1062/YashveerSingh1062/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ysr-yashveer/ysr-yashveer/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -111,4 +111,4 @@
 
 ---
 
-⭐️ From [Yashveer Singh](https://github.com/YashveerSingh1062)
+⭐️ From [Yashveer Singh](https://github.com/ysr-yashveer)
